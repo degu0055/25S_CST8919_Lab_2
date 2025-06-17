@@ -81,3 +81,6 @@ This query looks at logs from the app's console. It filters only the logs from t
 - **Action Group**: Sends an email to me  
 - **Severity**: 2 (Warning)
 
+## 🚫 Note on Action Group Limitation
+
+Action group is **not working** because there is **no Canada region listed** when creating one. If I try to create the action group in another region, **Azure policy blocks it** due to region restrictions.
