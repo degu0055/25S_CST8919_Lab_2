@@ -69,7 +69,7 @@ This query looks at logs from the app's console. It filters only the logs from t
 
 ## 📹 Video Demo
 
-[![Watch the Demo]](https://drive.google.com/file/d/1DIddjsRgiCu0Y1Vs2pDGabSwwFNTe1ak/view?usp=drivesdk)
+[Watch the Demo](https://drive.google.com/file/d/1DIddjsRgiCu0Y1Vs2pDGabSwwFNTe1ak/view?usp=drivesdk)
 
 ---
 
