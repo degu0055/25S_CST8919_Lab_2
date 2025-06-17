@@ -81,6 +81,3 @@ This query looks at logs from the app's console. It filters only the logs from t
 - **Action Group**: Sends an email to me  
 - **Severity**: 2 (Warning)
 
----
-
-Thanks for checking this project!
